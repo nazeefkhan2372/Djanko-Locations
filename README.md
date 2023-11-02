@@ -18,5 +18,5 @@
 #### INSTALLATION :
 The above notbook requires Python 3 or higher version to run.
 ```
-$ git clone https://github.com/nazeefkhna2372/Djanko-Locations
+$ git clone https://github.com/nazeefkhan2372/Djanko-Locations
 ```
